@@ -1,6 +1,6 @@
 {
-"name":"CICD3"
-"version":"2.5.0"
+"name":"CICD3",
+"version":"2.5.0",
 "scripts":{
   "test":"echo running sample test"
 }
